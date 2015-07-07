@@ -1,5 +1,5 @@
-FRC-2014-code-team-5112
+FRC 2014 Code Team 5112
 =======================
 
 FRC 2014 code
-This is to be run with the FRC 2014 template by WPI.
+Created by Pat Wahl during the 2014 build season for FRC team 5112, the Gongoliers.
